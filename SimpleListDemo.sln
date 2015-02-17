@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleListDemo", "SimpleListDemo\SimpleListDemo.csproj", "{412BB4A9-7993-452B-9D2E-B5B2EDFACB46}"
+EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "SimplePHPService", "SimplePHPService\SimplePHPService.phpproj", "{5D092B8E-840A-4762-B37C-62E8F7B89EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412BB4A9-7993-452B-9D2E-B5B2EDFACB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412BB4A9-7993-452B-9D2E-B5B2EDFACB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412BB4A9-7993-452B-9D2E-B5B2EDFACB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412BB4A9-7993-452B-9D2E-B5B2EDFACB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D092B8E-840A-4762-B37C-62E8F7B89EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D092B8E-840A-4762-B37C-62E8F7B89EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D092B8E-840A-4762-B37C-62E8F7B89EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D092B8E-840A-4762-B37C-62E8F7B89EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
